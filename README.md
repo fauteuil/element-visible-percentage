@@ -1,2 +1,2 @@
 # element-visible-percentage
-Get the visible horizontal percentage of a page element
+Get the visible vertical percentage of a page element.
