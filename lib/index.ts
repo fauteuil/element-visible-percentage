@@ -2,7 +2,7 @@
  * Get the percentage of the height of an Element currently within the viewport.
  * @param {Element | null} element
  */
-const getPercentVisible = (element: Element | null): number => {
+export const getPercentVisible = (element: Element | null): number => {
   if (element === null) {
     return 0;
   }
