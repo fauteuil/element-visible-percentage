@@ -2,7 +2,7 @@
 
 Get the percentage of the height of an Element currently visible within the viewport.
 
-- This function returns a `Number` with a value between 0 and 1, depending upon the horizontal scroll position and size of the given `Element`.
+- This function returns a `Number` with a value between 0 and 1, depending upon the vertical scroll position and size of the given `Element`.
 - This is useful for determining the extent to which an element is within the viewport within vertically scrollable layouts.
 
 **This package is compatible with Typescript**
@@ -28,7 +28,7 @@ or
 
 ### **Return value**  
 
-- `getPercentVisible()` will return a `Number` with a value between 0 and 1, depending upon the horizontal scroll position and size of the element.
+- `getPercentVisible()` will return a `Number` with a value between 0 and 1, depending upon the vertical scroll position and size of the element.
 
 ---
 

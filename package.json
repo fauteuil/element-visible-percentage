@@ -1,6 +1,6 @@
 {
   "name": "element-visible-percentage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the percentage of the height of an Element currently visible within the viewport.",
   "repository": "https://github.com/fauteuil/element-visible-percentage.git",
   "author": "fauteuil <dav3h3ld@gmail.com>",
