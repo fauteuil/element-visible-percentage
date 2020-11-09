@@ -1,2 +1,2 @@
 # element-visible-percentage
-Get the visible vertical percentage of a page element.
+Get the percentage of the height of an Element currently within the viewport.
